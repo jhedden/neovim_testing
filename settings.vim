@@ -1,0 +1,31 @@
+let g:mapleader = "\<Space>"
+
+set autoindent
+set cmdheight=1
+set conceallevel=0
+set cursorline
+set encoding=utf-8
+set expandtab
+set fileencoding=utf-8
+set formatoptions-=cro
+set hidden
+set iskeyword+=-
+set laststatus=2
+set mouse=a
+set nobackup
+set noshowmode
+set nowrap
+set nowritebackup
+set number
+set pumheight=10
+set ruler
+set shiftwidth=2
+set showtabline=2
+set smartindent
+set smarttab
+set splitbelow
+set splitright
+set t_Co=256
+set tabstop=2
+set timeoutlen=500
+set updatetime=300
