@@ -17,5 +17,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'Vimjas/vim-python-pep8-indent'
     Plug 'dense-analysis/ale'
     Plug 'davidhalter/jedi'
+    Plug 'towolf/vim-helm'
 
 call plug#end()
